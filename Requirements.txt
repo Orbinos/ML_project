@@ -1,0 +1,24 @@
+Group Work
+(30%) - Students will work in small groups (4-6) to complete a business analytics project using
+machine learning techniques. The project will involve selecting a business problem, applying appropriate machine
+learning methods, evaluating models, and presenting the findings. Group work will encourage collaboration,
+problem-solving, and communication skills. Each group will submit a final written report, a 3min video with the
+main insights and the developed code. The group project will be graded based on the application of techniques,
+clarity of explanation, and the quality of the final report, code and video.
+Report structure
+: 5 pages with letter Arial 11 and spacing 1.5 (1st page, table of contents and references don't
+count for the 5 pages).
+Video structucture
+: Up to the students. The goal of the video is for you to explain in 3 min the business
+problem, analysis and business recomendations.
+Code
+: Up to the students. The goal of the code is that it should be documented and organized as someone
+outsite the project can understand the process.
+Group work evaluation criteria include:
+Understanding and Application of Machine Learning Concepts
+Exploratory Data Analysis
+Feature Selection
+Model Comparison
+Business Interpretation of the results
+Actionable recommendations
+Clarity and Logic of Wri
